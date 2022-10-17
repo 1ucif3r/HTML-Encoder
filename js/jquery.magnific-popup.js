@@ -1,0 +1,1 @@
+No Content: http://www.spidytechnology.com/js/jquery.magnific-popup.js
